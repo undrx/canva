@@ -1,1 +1,13 @@
-node_modules
+# Node.js dependencies
+node_modules/
+
+# Compiled CSS, JS, and images
+dist/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore SASS cache
+.sass-cache/
